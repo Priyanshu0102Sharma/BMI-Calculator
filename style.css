@@ -118,7 +118,7 @@ color: bisque;
             flex-wrap: wrap;
             justify-content: space-evenly;
             margin: 5vh;
-            margin-bottom: 15vh;
+            margin-bottom: 680px;
 
         }
         .img1{
@@ -133,7 +133,7 @@ color: bisque;
             margin: 10px;
         }
         #details{
-            margin-top:400px;
+            margin: top 1000px;
         }
         .exercise{
             display: block;
@@ -157,9 +157,7 @@ color: bisque;
         .heading{
             font-size: 3.5vh;
         }
-        #details{
-            margin-top: 350px;
-        }
+        
         .exercise{
             display: block;
             width: auto;
